@@ -1,0 +1,9 @@
+com\example\service\springbootrewards\model\Reward.class
+com\example\service\springbootrewards\model\MyTransaction.class
+com\example\service\springbootrewards\rewards\RewardsController.class
+com\example\service\springbootrewards\rewards\RewardsService.class
+com\example\service\springbootrewards\utils\Utils.class
+com\example\service\springbootrewards\rewards\CustomerRepository.class
+com\example\service\springbootrewards\model\Customer.class
+com\example\service\springbootrewards\rewards\RewardsServiceMock.class
+com\example\service\springbootrewards\SpringBootRewardsApplication.class
